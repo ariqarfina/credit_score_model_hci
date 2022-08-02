@@ -21,21 +21,23 @@ Use AUC and Kolmogorov-Smirnov with target:
 
 Model that we use using Logistic Regression, with AUC and Kolmogorov-Smirnov(KS) for Evaluation
 
-![Table Evaluation and Model 2](https://user-images.githubusercontent.com/101324931/182015344-651eaf23-a22d-4c55-a882-f6efef609dec.jpg)
-![Kolmogorov-Smirnov (KS)](https://user-images.githubusercontent.com/101324931/182015273-a9075820-d66c-4594-a94e-a3d6f1c0a3ed.png)
-![Model AUC (ROC Curve)](https://user-images.githubusercontent.com/101324931/182015276-e718a18e-321a-4b6e-8e39-c4fbdfa0b3e5.png)
+![Table Evaluation and Model 2](https://user-images.githubusercontent.com/101324931/182434756-a6271109-1463-425e-891a-4806d57fd097.jpg)
+![Model AUC (ROC Curve)](https://user-images.githubusercontent.com/101324931/182434703-8ad4d9ed-cce3-4ead-bbd2-074eb5ad0654.png)
+![Kolmogorov-Smirnov (KS)](https://user-images.githubusercontent.com/101324931/182434698-61ea03c7-99a3-436a-b373-05dcd65e7ee2.png)
+
+
 
 We also submit data test that has predicted using this model
 
 # Conclusion
 
-![After using model](https://user-images.githubusercontent.com/101324931/182018594-fabf74e8-706c-45d9-8909-23a3cd8251e3.jpg)
+![image](https://user-images.githubusercontent.com/101324931/182434488-4fbf408d-2a7c-47c9-9fbc-966da29decfe.png)
 
 Before we use the model, we know that 8,07 % of Customers indicated failure from data train.
 
-We can predict that 11.55 % of the Test Data will default based on our modeling. As a result, customers who are expected to fail to pay can have their applications canceled.
+We can predict that 11.61 % of the Test Data will default based on our modeling. As a result, customers who are expected to fail to pay can have their applications canceled.
 
-![Before after](https://user-images.githubusercontent.com/101324931/182018610-a9085cde-3b04-48d3-a50c-756e9c117e5b.jpg)
+![Before after](https://user-images.githubusercontent.com/101324931/182434662-32f11059-304e-4e1b-8ff1-5a87eb5d15d8.jpg)
 
 
 Thankyou
